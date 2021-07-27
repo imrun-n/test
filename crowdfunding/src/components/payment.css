@@ -1,0 +1,31 @@
+#part{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top-div{
+
+    min-height: 80vh;
+    padding: 80px 0 0;
+}
+
+.top-div .left-div{
+    flex: 0 0 50%;
+    height: 415px;
+    max-width: 50%;
+    padding: 0 5px;
+    font-family: montserrat;
+    color: #25282b;
+    letter-spacing: 1px;
+
+}
+
+.top-div .right-div{
+    flex: 0 0 50%;
+   
+    max-width: 50%;
+    padding: 0 10px;
+    font-family: montserrat;
+    color: #25282b;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,44 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+#whole{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-family: montserrat;
+    letter-spacing: 1px;
+
+}
+
+#whole label{
+    font-size: medium;
+    color: #373b3e;
+
+}
+#whole input{
+    font-size: large;
+    color: black;
+    border: 1px solid #d7d7d8;
+
+}
+
+#whole input:hover{
+    
+    border: 1px solid #ff00ff;
+
+}
+.label-text{
+    padding: 5px 5px 5px 5px;
+  
+    
+}
+
+.label-text label{
+    margin-bottom: 25px;
+  
+    
+    font-family: montserrat;
+    color: #25282b;
+   
+    font-size: 20px;
+    letter-spacing: 1px;
+
+}
+
